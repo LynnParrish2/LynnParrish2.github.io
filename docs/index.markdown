@@ -4,7 +4,7 @@
 
 layout: default
 ---
-### [Welcome to Jekyll](/jekyll/update/2020/09/04/welcome-to-jekyll.html/)
+### [Welcome to Jekyll](/jekyll/update/2020/09/04/welcome-to-jekyll.html)
 Sep 4, 2020
 
 
