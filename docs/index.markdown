@@ -24,5 +24,6 @@ Sep 18, 2020
 Sep 25, 2020
 
 
-
+### [Blog 4 Dockerfile](/jekyll/update/2020/10/02/blog-4.html)
+Oct 02, 2020
 
