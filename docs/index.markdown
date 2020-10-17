@@ -30,3 +30,7 @@ Oct 02, 2020
 
 ### [Blog 5 Alpine](/jekyll/update/2020/10/09/blog-5.html)
 Oct 09, 2020
+
+
+### [Blog 6 Terraform](/jekyll/update/2020/10/16/blog-6.html)
+Oct 09, 2020
