@@ -33,7 +33,7 @@ Oct 09, 2020
 
 
 ### [Blog 6 Terraform](/jekyll/update/2020/10/16/blog-6.html)
-Oct 09, 2020
+Oct 16, 2020
 
 
 ### [Blog 7 Amazon EC2](/jekyll/update/2020/10/09/blog-7.html)
