@@ -38,3 +38,7 @@ Oct 16, 2020
 
 ### [Blog 7 Ansible](/jekyll/update/2020/10/23/blog-7.html)
 Oct 23, 2020
+
+
+### [Blog 8 PH](/jekyll/update/2020/10/30/blog-8.html)
+Oct 30, 2020
