@@ -42,3 +42,7 @@ Oct 23, 2020
 
 ### [Blog 8 ERP Software](/jekyll/update/2020/10/30/blog-8.html)
 Oct 30, 2020
+
+
+### [Blog 9 PH](/jekyll/update/2020/11/06/blog-9.html)
+Nov 06, 2020
