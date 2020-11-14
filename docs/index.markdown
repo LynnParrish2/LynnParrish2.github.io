@@ -46,3 +46,7 @@ Oct 30, 2020
 
 ### [Blog 9 AWS Infrastructure](/jekyll/update/2020/11/06/blog-9.html)
 Nov 06, 2020
+
+
+### [Blog 10 PH](/jekyll/update/2020/11/13/blog-10.html)
+Nov 13, 2020
