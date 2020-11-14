@@ -48,5 +48,5 @@ Oct 30, 2020
 Nov 06, 2020
 
 
-### [Blog 10 PH](/jekyll/update/2020/11/13/blog-10.html)
+### [Blog 10 GitHub Pages Theme Change](/jekyll/update/2020/11/13/blog-10.html)
 Nov 13, 2020
