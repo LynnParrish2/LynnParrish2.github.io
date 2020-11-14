@@ -29,7 +29,7 @@ twitter_username: jekyllrb
 github_username:  LynnParrish2
 
 # Build settings
-theme: jekyll-theme-modernist
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
