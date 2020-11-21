@@ -50,3 +50,8 @@ Nov 06, 2020
 
 ### [Blog 10 GitHub Pages Theme Change](/jekyll/update/2020/11/13/blog-10.html)
 Nov 13, 2020
+
+
+### [Blog 11 MacOS 11](/jekyll/update/2020/11/20/blog-11.html)
+Nov 20, 2020
+
