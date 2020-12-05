@@ -56,5 +56,5 @@ Nov 13, 2020
 Nov 20, 2020
 
 
-### [Blog 12 Terraform - Lab 5](/jekyll/update/2020/12/04/blog-12.html)
+### [Blog 12 Big Sur Installer](/jekyll/update/2020/12/04/blog-12.html)
 Dec 04, 2020
