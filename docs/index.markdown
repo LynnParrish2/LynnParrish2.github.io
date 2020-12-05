@@ -24,7 +24,7 @@ Sep 18, 2020
 Sep 25, 2020
 
 
-### [Blog 4 Dockerfile - Lab 02](/jekyll/update/2020/10/02/blog-4.html)
+### [Blog 4 Dockerfile - Lab 2](/jekyll/update/2020/10/02/blog-4.html)
 Oct 02, 2020
 
 
@@ -36,7 +36,7 @@ Oct 09, 2020
 Oct 16, 2020
 
 
-### [Blog 7 Ansible Playbook - Lab 03](/jekyll/update/2020/10/23/blog-7.html)
+### [Blog 7 Ansible Playbook - Lab 3](/jekyll/update/2020/10/23/blog-7.html)
 Oct 23, 2020
 
 
