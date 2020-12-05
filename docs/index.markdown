@@ -44,7 +44,7 @@ Oct 23, 2020
 Oct 30, 2020
 
 
-### [Blog 9 AWS Infrastructure](/jekyll/update/2020/11/06/blog-9.html)
+### [Blog 9 AWS Infrastructure - Lab 4](/jekyll/update/2020/11/06/blog-9.html)
 Nov 06, 2020
 
 
@@ -55,3 +55,6 @@ Nov 13, 2020
 ### [Blog 11 MacOS 11](/jekyll/update/2020/11/20/blog-11.html)
 Nov 20, 2020
 
+
+### [Blog 12 Terraform - Lab 5](/jekyll/update/2020/12/04/blog-12.html)
+Dec 04, 2020
