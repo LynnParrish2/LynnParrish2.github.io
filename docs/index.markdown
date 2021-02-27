@@ -60,5 +60,5 @@ Nov 20, 2020
 Dec 04, 2020
 
 
-### [M1 Mac Virtual Machine](/jekyll/update/2021/02/26/blog-14.html)
+### [Blog 14 M1 Mac Virtual Machine](/jekyll/update/2021/02/26/blog-14.html)
 Feb 26, 2021
