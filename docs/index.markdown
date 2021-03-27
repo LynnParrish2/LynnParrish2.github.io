@@ -72,6 +72,6 @@ Mar 05, 2021
 Mar 12, 2021
 
 
-### [Blog 17 Test](/jekyll/update/2021/03/26/blog-17.html)
+### [Blog 17 Project 0 VPC/EC2](/jekyll/update/2021/03/26/blog-17.html)
 Mar 26, 2021
 
