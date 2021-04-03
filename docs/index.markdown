@@ -75,3 +75,7 @@ Mar 12, 2021
 ### [Blog 17 Project 0 VPC/EC2](/jekyll/update/2021/03/26/blog-17.html)
 Mar 26, 2021
 
+
+### [Blog 18 Homebrew](/jekyll/update/2021/04/02/blog-18.html)
+Apr 02, 2021
+
