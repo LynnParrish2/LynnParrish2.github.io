@@ -79,3 +79,6 @@ Mar 26, 2021
 ### [Blog 18 Homebrew](/jekyll/update/2021/04/02/blog-18.html)
 Apr 02, 2021
 
+
+### [Blog 19 QEMU](/jekyll/update/2021/04/09/blog-19.html)
+Apr 09, 2021
