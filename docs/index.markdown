@@ -82,3 +82,7 @@ Apr 02, 2021
 
 ### [Blog 19 QEMU/UTM](/jekyll/update/2021/04/09/blog-19.html)
 Apr 09, 2021
+
+
+### [Blog 20 HandBrake](/jekyll/update/2021/04/16/blog-20.html)
+Apr 16, 2021
