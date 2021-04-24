@@ -88,5 +88,5 @@ Apr 09, 2021
 Apr 16, 2021
 
 
-### [Blog 21 Placeholder](/jekyll/update/2021/04/23/blog-21.html)
+### [Blog 21 Reaper](/jekyll/update/2021/04/23/blog-21.html)
 Apr 23, 2021
