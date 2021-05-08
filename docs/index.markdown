@@ -94,3 +94,7 @@ Apr 23, 2021
 
 ### [Blog 22 Cakebrew](/jekyll/update/2021/04/30/blog-22.html)
 Apr 30, 2021
+
+
+### [Blog 23 macOS Share Disk](/jekyll/update/2021/05/07/blog-23.html)
+May 07, 2021
